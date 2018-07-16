@@ -7,3 +7,4 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 It is a test for no fast-forward merge.
 bug fixed
+dive into dev branch
