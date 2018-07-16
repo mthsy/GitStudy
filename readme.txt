@@ -9,3 +9,4 @@ It is a test for no fast-forward merge.
 bug fixed
 dive into dev branch
 MBP is updating dev.
+X1 is updating dev.
